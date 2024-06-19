@@ -17,7 +17,7 @@ Após a história ter sido criada e aprimorada, utilizando o Leonardo e o gerado
 Por fim, montei tudo no Canva.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[As fantásticas aventuras de Augusto](https://github.com/lalineGomes/lab-natty-or-not/blob/main/As%20fant%C3%A1sticas%20aventuras%20de%20Augusto_20240619_110810_0000.pdf)
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Foi um desafio bastante divertido e fiquei impressionada com a velocidade com a qual foi criada. Tive um pouco de dificuldade no início para descrever as imagens que precisava, mas logo peguei o jeito.
